@@ -1,0 +1,24 @@
+{
+  "name": "N5",
+  "version": "1.0.0",
+  "description": "Interactive JLPT N5 Learning App - Hiragana, Katakana, 25 Lessons, 600+ Vocab, Flashcards & Quiz",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dahiyanikhil693-dev/N5"
+  },
+  "keywords": [
+    "JLPT",
+    "N5",
+    "Japanese",
+    "Learning",
+    "Hiragana",
+    "Katakana",
+    "Vocabulary",
+    "Grammar",
+    "Flashcards",
+    "Quiz"
+  ],
+  "author": "dahiyanikhil693-dev",
+  "license": "MIT"
+}
